@@ -1,6 +1,6 @@
 {
   "\u0000/home/runner/work/webzen-projects-dev/webzen-projects-dev/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
-    "/assets/nprogress-Zh5el4Xj.js",
+    "/assets/nprogress-Q0x7YZUc.js",
     "/assets/nprogress-CEL4D4aq.css"
   ],
   "\u0000/home/runner/work/webzen-projects-dev/webzen-projects-dev/node_modules/.pnpm/vue-scrollto@2.20.0/node_modules/vue-scrollto/vue-scrollto.js?commonjs-module": [
@@ -82,8 +82,8 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "../../../../../@vite-plugin-pages/route-block": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "../../../../../@vite-plugin-pwa/virtual:pwa-register/vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -320,7 +320,7 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "node_modules/.pnpm/@vueform+slider@2.1.9/node_modules/@vueform/slider/dist/slider.js": [
-    "/assets/slider-V6Tge4KH.js"
+    "/assets/slider-zdUksrHe.js"
   ],
   "node_modules/.pnpm/@vueform+slider@2.1.9/node_modules/@vueform/slider/themes/default.scss": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -375,11 +375,11 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.css": [
-    "/assets/nprogress-Zh5el4Xj.js",
+    "/assets/nprogress-Q0x7YZUc.js",
     "/assets/nprogress-CEL4D4aq.css"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
-    "/assets/nprogress-Zh5el4Xj.js",
+    "/assets/nprogress-Q0x7YZUc.js",
     "/assets/nprogress-CEL4D4aq.css"
   ],
   "node_modules/.pnpm/pinia@2.1.7_typescript@5.2.2_vue@3.3.7/node_modules/pinia/dist/pinia.mjs": [
@@ -568,28 +568,28 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/advanced/error/animated-error/ErrorAnimated.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/advanced/error/animated-error/ErrorAnimated.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/advanced/error/animated-error/ErrorAnimated.vue?vue&type=style&index=0&scoped=7b8ac72f&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/advanced/error/hero-error/ErrorHero.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/advanced/error/hero-error/ErrorHero.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/advanced/error/hero-error/ErrorHero.vue?vue&type=style&index=0&scoped=8c411f6c&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/components/base/button/Button.vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -917,20 +917,56 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/base/title/Title.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/base/title/Title.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/base/title/Title.vue?vue&type=style&index=0&scoped=029d3f38&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/layout/container/Container.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/layout/footer/Footer.vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -958,7 +994,7 @@
     "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
-  "src/components/layout/footer/Footer.vue?vue&type=style&index=0&scoped=e79c34f3&lang.scss": [
+  "src/components/layout/footer/Footer.vue?vue&type=style&index=0&scoped=6925fae9&lang.scss": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
     "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
     "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
@@ -972,12 +1008,56 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/layout/hero/Hero.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/layout/hero/Hero.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
+  ],
+  "src/components/layout/hero/heroM1/HeroM1.vue": [
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
+  ],
+  "src/components/layout/hero/heroM1/HeroM1.vue?vue&type=style&index=0&scoped=d6a65e1e&lang.scss": [
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/backtotop/BackToTop.vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -1019,28 +1099,82 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroCircleMask.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroCircleMask.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroCircleMask.vue?vue&type=style&index=0&scoped=baa4b3c5&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroWaveMask.vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroWaveMask.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/misc/masks/HeroWaveMask.vue?vue&type=style&index=0&scoped=d18fb5d8&lang.scss": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
+    "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
+    "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
+    "/assets/roboto-flex-vietnamese-wght-normal-1KizgI4q.woff2",
+    "/assets/roboto-flex-latin-ext-wght-normal-DllcyRER.woff2",
+    "/assets/roboto-flex-latin-wght-normal-cfZiMlKg.woff2",
+    "/assets/montserrat-cyrillic-ext-wght-normal-K1daIjca.woff2",
+    "/assets/montserrat-cyrillic-wght-normal-h2Ivy5lH.woff2",
+    "/assets/montserrat-vietnamese-wght-normal-V1kl_bc9.woff2",
+    "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
+    "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/components/navigation/hamburger/Hamburger.vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -1107,7 +1241,7 @@
     "/assets/montserrat-latin-ext-wght-normal-SFXj8vbk.woff2",
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
-  "src/components/navigation/navbar/Navbar.vue?vue&type=style&index=0&scoped=033817ce&lang.scss": [
+  "src/components/navigation/navbar/Navbar.vue?vue&type=style&index=0&scoped=6c4bbedc&lang.scss": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
     "/assets/roboto-flex-cyrillic-wght-normal-QNnOWDn_.woff2",
     "/assets/roboto-flex-greek-wght-normal-8SVPT--s.woff2",
@@ -1134,10 +1268,10 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/directives/background.ts": [
-    "/assets/directives-WX6t_Z2u.js"
+    "/assets/directives-oAhMXipN.js"
   ],
   "src/directives/preload-link.ts": [
-    "/assets/directives-WX6t_Z2u.js"
+    "/assets/directives-oAhMXipN.js"
   ],
   "src/entry-client.ts": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -1166,18 +1300,18 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/locales/en.json": [
-    "/assets/i18n-pxXAPQJN.js"
+    "/assets/i18n-pVJpDvDO.js"
   ],
   "src/locales/fr.json": [
-    "/assets/i18n-pxXAPQJN.js"
+    "/assets/i18n-pVJpDvDO.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-SjIjlG4r.js",
-    "/assets/_...all_-LlCNPyZ8.css"
+    "/assets/_...all_-U7hee9R3.js",
+    "/assets/_...all_-JwHW0FVB.css"
   ],
   "src/pages/index.vue": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",
@@ -1193,23 +1327,23 @@
     "/assets/montserrat-latin-wght-normal-QwOtvNGk.woff2"
   ],
   "src/plugins/directives.ts": [
-    "/assets/directives-WX6t_Z2u.js"
+    "/assets/directives-oAhMXipN.js"
   ],
   "src/plugins/i18n.ts": [
-    "/assets/i18n-pxXAPQJN.js"
+    "/assets/i18n-pVJpDvDO.js"
   ],
   "src/plugins/navigation-guards.ts": [
-    "/assets/navigation-guards-oSHt4TMc.js"
+    "/assets/navigation-guards-MKbhKvvl.js"
   ],
   "src/plugins/nprogress.ts": [
-    "/assets/nprogress-Zh5el4Xj.js",
+    "/assets/nprogress-Q0x7YZUc.js",
     "/assets/nprogress-CEL4D4aq.css"
   ],
   "src/plugins/pinia.ts": [
-    "/assets/pinia-dSAVFFcL.js"
+    "/assets/pinia-o9WxsVKl.js"
   ],
   "src/plugins/slider.ts": [
-    "/assets/slider-yjtVAM7Z.js"
+    "/assets/slider-pMeHh_ne.js"
   ],
   "src/router.ts": [
     "/assets/roboto-flex-cyrillic-ext-wght-normal-yzotEKkt.woff2",

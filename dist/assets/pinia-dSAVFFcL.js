@@ -1,1 +1,0 @@
-import{d as a,b as t}from"./app-e19Jf3hc.js";const e=a((({app:a,initialState:e})=>{const i=t();a.use(i),"undefined"!=typeof window?i.state.value=(null==e?void 0:e.pinia)||{}:e.pinia=i.state.value}));export{e as default};
